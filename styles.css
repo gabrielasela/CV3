@@ -1,0 +1,43 @@
+body {
+    font-family: 'Do Hyeon', sans-serif;
+    background-color: lightgoldenrodyellow;
+}
+
+h2 {
+    font-family: 'Anton', sans-serif;
+    font-size: 30px;
+}
+h3 {
+    margin-top: -20px;
+    margin-left : 155px;
+}
+p {
+    margin-top: 70px;
+}
+
+div.Pendidikan {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px;
+    background-color: rgb(173, 255, 241);
+}
+
+div.DataDiri {
+    background-color: rgb(220, 255, 241);
+}
+
+div.Kemampuan {
+    background-color: rgb(104, 252, 215);
+    margin-top: -5px;
+}
+
+div.Ayat {
+    background-color: rgb(56, 255, 179);
+    margin-bottom: -60px;
+}
+p.ayat {
+    margin-top: 10px;
+    font-family: 'Lobster', cursive;
+}
+div.contact {
+    background-color: lightgreen;
+}
